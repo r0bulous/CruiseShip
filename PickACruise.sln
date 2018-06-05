@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickACruise", "PickACruise\PickACruise.csproj", "{A51A54A1-832A-42F8-9DE5-55E2B1399214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51A54A1-832A-42F8-9DE5-55E2B1399214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51A54A1-832A-42F8-9DE5-55E2B1399214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51A54A1-832A-42F8-9DE5-55E2B1399214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51A54A1-832A-42F8-9DE5-55E2B1399214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA731A3F-36B1-4A99-B186-1D5A7164A45A}
+	EndGlobalSection
+EndGlobal
